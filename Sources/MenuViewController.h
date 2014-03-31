@@ -1,6 +1,0 @@
-
-@interface MenuViewController : UITableViewController
-{
-}
-
-@end
